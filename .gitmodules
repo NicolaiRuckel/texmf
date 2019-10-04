@@ -1,0 +1,6 @@
+[submodule "bibtex/bib/bibliography"]
+	path = bibtex/bib/bibliography
+	url = git@github.com:NicolaiRuckel/bibliography
+[submodule "tex/latex/beamer/issdark-beamer-theme"]
+	path = tex/latex/beamer/issdark-beamer-theme
+	url = git@github.com:NicolaiRuckel/issdark-beamer-theme
